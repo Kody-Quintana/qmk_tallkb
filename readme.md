@@ -1,3 +1,22 @@
+# Tallkb
+Fork of qmk that contains files for my custom keyboard "tallkb".
+
+## Build Gallery:
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="" src="https://i.imgur.com/4RtHTI5.png">  pcb right after etching with a vinyl mask |  <img width="1604" alt="" src="https://i.imgur.com/O1lWTXO.png"> Cherry switch mounting holes drilled |<img width="1604" alt="" src="https://i.imgur.com/PuxBALf.png"> Diodes and bridge wires where I couldn't fit traces|
+|<img width="1604" alt="" src="https://i.imgur.com/SPDhvUy.png"> Rows and columns wired to the teensy |  <img width="1604" alt="" src="https://i.imgur.com/RTlySr8.png"> Closeup of the teensy 3.2 |<img width="1604" alt="" src="https://i.imgur.com/SOzGef6.png">The three "lock" switches |
+|<img width="1604" alt="" src="https://i.imgur.com/DK0tLSW.png"> Ebonized wood frame |  <img width="1604" alt="" src="https://i.imgur.com/jDHobNk.png"> Clear acrylic case|<img width="1604" alt="" src="https://i.imgur.com/3d9yEK9.png"> Countersunk bolts with countersunk nuts on other side|
+|<img width="1604" alt="" src="https://i.imgur.com/sRBaTEh.png"> Reset pinhole for the teensy |  <img width="1604" alt="" src="https://i.imgur.com/P2uW32q.png">Angled shot of the traces|<img width="1604" alt="" src="https://i.imgur.com/BXmV55x.png">Caps lock key replaced with escape for use with vim|
+|<img width="1604" alt="" src="https://i.imgur.com/0RdanjU.png"> Vinyl and relegendable keycaps |  <img width="1604" alt="" src="https://i.imgur.com/ae5uBUU.png">Aluminum feet|<img width="1604" alt="" src="https://i.imgur.com/P6pelYB.png"> No nav-cluster or numpad (fn key sets HJKL to arrow keys)|
+|<img width="1604" alt="" src="https://i.imgur.com/Pppm5fY.png"> Overview |  <img width="1604" alt="" src="">|<img width="1604" alt="" src="">|
+
+<br>
+<br>
+<br>
+
+# Upstream README:
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
